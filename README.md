@@ -66,6 +66,7 @@ to do so first
 After the Rolling Average filed one can see a input field with default value of 39 this value is the window length like how much data to be consider in one iteration
 and then you will see **View Plot** button 
 and next to it you can see **(?)**  this is for help
+# 
 ![look of VRSAT by somen6562@gmail.com somen das](https://drive.google.com/uc?export=download&id=13QXetgdb4DfnqkuLilL6ZtgzDKLc3YWx)
 
 # now to plot specific data use combinations of the check boxes 
